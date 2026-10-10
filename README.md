@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I168
 ### Team Details
-#### **Team Name** <<Mavericks>> <br/>
+#### **Team Name** Mavericks <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Day Scholar/ Hosteller |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| :-------------------------------: |
